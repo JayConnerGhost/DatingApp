@@ -447,3 +447,7 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 appsettings.json
+StudentAssets/StudentAssets/generateTrustedSSL/server.crt
+StudentAssets/StudentAssets/generateTrustedSSL/server.key
+
+ssl
